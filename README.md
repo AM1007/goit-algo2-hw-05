@@ -11,7 +11,9 @@ This homework consists of two independent tasks.
 
 Let’s get started! 💪🏼
 
-***
+## [Solutions](./solution.md)
+
+---
 
 ## Task 1: Checking Password Uniqueness with a Bloom Filter
 
@@ -63,7 +65,7 @@ Password 'admin123' - already used.
 Password 'guest' - unique.
 ```
 
-***
+---
 
 ## Task 2: Comparing HyperLogLog Performance vs. Exact Counting
 
